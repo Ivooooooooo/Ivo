@@ -1,7 +1,3 @@
-# 🚀 Sobre mi
-Mi hobby es desarrollar todo tipo de proyectos, tengo conocimientos en C++, C# y JS principalmente.
-
-
 ## Algunos proyectos
 
  - [E-commerce](https://ivooooooooo.github.io/E-commerce/) (Proyecto hecho en Coderhouse)
